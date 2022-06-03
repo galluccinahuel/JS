@@ -7,7 +7,7 @@ while (m_input != m_clave)
 {
 
     alert("Pista: ESCríbe otra palabra.");
-    m_input = prompt("Otra palabra");
+    m_input = prompt("");
 
     if (m_input == m_clave) 
     {
