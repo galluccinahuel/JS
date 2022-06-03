@@ -1,7 +1,7 @@
 
 let m_clave = "esc";
-let m_input =  prompt("Escríbe la palabra secreta.");
-
+alert("Escríbe la palabra secreta.");
+let m_input =  prompt("");
 
 while (m_input != m_clave)
 {
